@@ -17,3 +17,5 @@ On the Ethics problem you should be professionals with the law if your friend is
 
 And remember just because something is legal doesn't meant it impossible to be ethical. 
 There is Technology Organization has published a code of ethics like (ISSA) organization. <br>
+
+### 5.2 Education and Career
