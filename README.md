@@ -19,3 +19,6 @@ And remember just because something is legal doesn't meant it impossible to be e
 There is Technology Organization has published a code of ethics like (ISSA) organization. <br>
 
 ### 5.2 Education and Career
+There is a lot professional certifications for Cybersecurity, some common certifications are: <br>
+- **Cisco Certified Support Technician (CCST) Cybersecurity** <br>
+  This is beginner certification intended for high school and early college students.
