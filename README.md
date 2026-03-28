@@ -11,4 +11,9 @@ As a cybersecurity we need to keep the law and ethics. <br>
 Professional cyber security using their skill within legal limits, and there's an old saying: <br>
 **"Just because you can, doesn't mean you should."** <br>
 
-Most hacks leave traces, which can be **traced back**, Cybersecurity professionals develop their skills that can be used for morality or immorality, If Cybersecurity professionals violate any law there is a penalty imposed on the groom.
+Most hacks leave traces, which can be **traced back**, Cybersecurity professionals develop their skills that can be used for morality or immorality, If Cybersecurity professionals violate any law there is a penalty imposed on the groom. <br>
+
+On the Ethics problem you should be professionals with the law if your friend is caught doing something wrong it must still be punished, that is one application of ethics. <br>
+
+And remember just because something is legal doesn't meant it impossible to be ethical. 
+There is Technology Organization has published a code of ethics like (ISSA) organization. <br>
