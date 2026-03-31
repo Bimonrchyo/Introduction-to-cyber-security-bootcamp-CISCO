@@ -4,9 +4,19 @@ This is the lesson what i learned in this bootcamp, this bootcamp is teach me ab
 
 ## Module 4
 ### 4.1 Cybersecurity Devices and Technologies
-
-
-
+Security appliances can also be software tools that run on network devices, They are divided into 6 general categories. <br>
+- **Router** <br>
+  Routers are generally used to connect various network segments, they usually also provide basic traffic     filtering capabilities.
+- **Firewall** <br>
+  Firewall can look deeper into the network traffic itself and identify malicious behavior that must be       blocked
+- **Intrusion Prevention System (IPS)** <br>
+  IPS uses several appropriate traffic markers and can block malicious attacks.
+- **Virtual Private Network (VPN)** <br>
+  VPN system let remote employees use a secure encrypted tunnel from their mobile computer and securely connect back to the organization's network, VPN system can also securely interconnect branch offices with the central office network.
+- **Antimalware and Antivirus** <br>
+  These systems use signatures or behavioral analysis of application to identify and block malicious code from being executed.
+- **Other Security Devices** <br>
+  It is include web and email security appliance, decryption devices, client access control servers and security management systems.
 
 
 ## Module 5
