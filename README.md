@@ -16,8 +16,12 @@ Security appliances can also be software tools that run on network devices, They
 - **Antimalware and Antivirus** <br>
   These systems use signatures or behavioral analysis of application to identify and block malicious code from being executed.
 - **Other Security Devices** <br>
-  It is include web and email security appliance, decryption devices, client access control servers and security management systems.
+  It is include web and email security appliance, decryption devices, client access control servers and security management systems. <br>
 
+**Firewall** <br>
+A firewall is designed to control or filter which communications are allowed in and which are allowed out of a device or network. <br>
+A firewall can be installed on a single computer with the purpose of protecting that one computer _(host-based-firewall)_. <br>
+or it can be standalone network device that protects an entire network of computers and all of the host devices on that network _(network-based-firewall)_.
 
 ## Module 5
 ### 5.1 Law and Ethics
