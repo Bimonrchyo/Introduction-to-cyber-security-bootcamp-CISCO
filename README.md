@@ -24,8 +24,10 @@ A firewall can be installed on a single computer with the purpose of protecting 
 or it can be standalone network device that protects an entire network of computers and all of the host devices on that network _(network-based-firewall)_. <br>
 
 Some common **firewall type** are:
-- Network Layer Firewall <br>
+- **Network Layer Firewall** <br>
   Filtering communications based on source and destination IP addresses.
+- **Transport Layer Firewall** <br>
+  Filters communications based on source and destination data ports, as well as connection states.
 
 ## Module 5
 ### 5.1 Law and Ethics
