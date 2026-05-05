@@ -28,6 +28,10 @@ Some common **firewall type** are:
   Filtering communications based on source and destination IP addresses.
 - **Transport Layer Firewall** <br>
   Filters communications based on source and destination data ports, as well as connection states.
+- **Application Layer Firewall** <br>
+  Filters communications based on an application, program, or service.
+- **Context Aware Layer Firewall** <br>
+  Filters communications based on the user, device, role, application type and threat profile
 
 ## Module 5
 ### 5.1 Law and Ethics
