@@ -31,7 +31,9 @@ Some common **firewall type** are:
 - **Application Layer Firewall** <br>
   Filters communications based on an application, program, or service.
 - **Context Aware Layer Firewall** <br>
-  Filters communications based on the user, device, role, application type and threat profile
+  Filters communications based on the user, device, role, application type and threat profile.
+- **Proxy Server** <br>
+  Filters web content  requests like URLs, domain names and media types.
 
 ## Module 5
 ### 5.1 Law and Ethics
